@@ -4,3 +4,5 @@
   - วิทยาการคอมพิวเตอร์
   
 ![Chill guy](/img/Chillpic.jpg)
+
+[Symmetric Algorithm](symmetric-algorithm.md)
