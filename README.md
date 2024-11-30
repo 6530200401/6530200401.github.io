@@ -1,8 +1,9 @@
 # 6530200401 Ratthakit Kotcharin
-- นายรัฐกิจ คชรินทร์
+<h1 align="center">- นายรัฐกิจ คชรินทร์
   - ปี 3
-  - วิทยาการคอมพิวเตอร์
+  - วิทยาการคอมพิวเตอร์</h1>
   
 ![Chill guy](/img/Chillpic.jpg)
-
+<h1>
 [Symmetric Algorithm](symmetric-algorithm.md)
+</h1>
