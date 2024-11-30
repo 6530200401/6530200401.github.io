@@ -5,7 +5,7 @@
   - วิทยาการคอมพิวเตอร์
   
 ![Chill guy](/img/Chillpic.jpg)
-<h1>
+
 [Symmetric Algorithm](symmetric-algorithm.md)
-</h1>
+
 </center>
