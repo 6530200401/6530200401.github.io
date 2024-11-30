@@ -3,4 +3,4 @@
   - ปี 3
   - วิทยาการคอมพิวเตอร์
   
-![Chill guy](/img/Chillpic.jpeg)
+![Chill guy](/img/Chillpic.jpg)
