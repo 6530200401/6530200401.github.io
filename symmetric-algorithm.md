@@ -7,7 +7,9 @@
 
 - จาก NIST คำศัพท์ที่ใช้จะเป็น Symmetric Cryptography แทน Symmetric Algorithm ซึ่งนิยามไว้ว่า
   - "A cryptographic algorithm that uses the same secret key for its operation and, if applicable, for reversing the effects of the operation"
+  - ChatGPT แปลได้ว่า "อัลกอริทึมการเข้ารหัสที่ใช้กุญแจลับเดียวกันทั้งสำหรับการทำงานและ (ถ้ามี) สำหรับการย้อนกลับผลลัพธ์ของการทำงาน"
   - Gemini แปลไว้ว่า "อัลกอริทึมการเข้ารหัสที่ใช้กุญแจลับเดียวกันในการดำเนินการ และหากมีการย้อนกลับกระบวนการ ก็จะใช้กุญแจลับเดียวกันนี้"
 
 - สรุปเองได้ว่า
   - "Symmetric algorithm คือ อัลกอริทึมที่ใช้เข้ารหัสและถอดรหัส โดยจะใช้กุญแจเดียวกันทั้งการเข้าและถอดรหัส"
+
