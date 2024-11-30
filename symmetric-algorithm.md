@@ -6,7 +6,7 @@
   - **Gemini** แปลไว้ว่า "ทำงานโดยใช้กุญแจเข้ารหัสเพียงกุญแจเดียว ซึ่งใช้ทั้งในการเข้ารหัสและถอดรหัสข้อความ"
 ---
 
-- จาก NIST Glossary [https://csrc.nist.gov/glossary/term/symmetric_cryptography](https://csrc.nist.gov/glossary/term/symmetric_cryptography)
+- **NIST Glossary** [https://csrc.nist.gov/glossary/term/symmetric_cryptography](https://csrc.nist.gov/glossary/term/symmetric_cryptography)
   - คำศัพท์ที่ใช้จะเป็น Symmetric Cryptography แทน Symmetric Algorithm ซึ่งนิยามไว้ว่า
   - "A cryptographic algorithm that uses the same secret key for its operation and, if applicable, for reversing the effects of the operation"
   - **ChatGPT** แปลได้ว่า "อัลกอริทึมการเข้ารหัสที่ใช้กุญแจลับเดียวกันทั้งสำหรับการทำงานและ (ถ้ามี) สำหรับการย้อนกลับผลลัพธ์ของการทำงาน"
