@@ -1,5 +1,9 @@
 # 6530200401 Ratthakit Kotcharin
 
+---
+# ยินดีต้อนรับ
+---
+
 # Profile
 - **นายรัฐกิจ คชรินทร์**
   - ปี 3
@@ -7,4 +11,6 @@
   
 ![Chill guy](/img/Chillpic.jpg)
 
-**[Symmetric Algorithm](symmetric-algorithm.md)**
+---
+
+**หน้าถัดไป: [Symmetric Algorithm](symmetric-algorithm.md)**
