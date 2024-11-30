@@ -4,6 +4,7 @@
   - "Operate with a single cryptographic key that is used for both encryption and decryption of the message."
   - **ChatGPT** แปลได้ว่า "ทำงานด้วยกุญแจเข้ารหัสเพียงดอกเดียวที่ใช้ทั้งในการเข้ารหัสและถอดรหัสข้อความ"
   - **Gemini** แปลไว้ว่า "ทำงานโดยใช้กุญแจเข้ารหัสเพียงกุญแจเดียว ซึ่งใช้ทั้งในการเข้ารหัสและถอดรหัสข้อความ"
+
 ---
 
 - **NIST Glossary** [https://csrc.nist.gov/glossary/term/symmetric_cryptography](https://csrc.nist.gov/glossary/term/symmetric_cryptography)
