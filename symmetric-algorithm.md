@@ -1,6 +1,6 @@
 # Symmetric Algorithm
 
-- จาก CISSP Glossary (https://www.isc2.org/certifications/cissp/cissp-student-glossary#s)[https://www.isc2.org/certifications/cissp/cissp-student-glossary#s] นิยามไว้ว่า
+- จาก CISSP Glossary [https://www.isc2.org/certifications/cissp/cissp-student-glossary#s](https://www.isc2.org/certifications/cissp/cissp-student-glossary#s) นิยามไว้ว่า
   - "Operate with a single cryptographic key that is used for both encryption and decryption of the message."
   - ChatGPT แปลได้ว่า "ทำงานด้วยกุญแจเข้ารหัสเพียงดอกเดียวที่ใช้ทั้งในการเข้ารหัสและถอดรหัสข้อความ"
   - Gemini แปลไว้ว่า "ทำงานโดยใช้กุญแจเข้ารหัสเพียงกุญแจเดียว ซึ่งใช้ทั้งในการเข้ารหัสและถอดรหัสข้อความ"
