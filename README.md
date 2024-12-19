@@ -2,6 +2,9 @@
 
 ---
 # ยินดีต้อนรับ
+- ## สารบัญ
+  - **[คำศัพท์ Glossary: Symmetric Algorithm](symmetric-algorithm.md)**
+  - **[E-card Christmas and New Year 2025](e-card.md)**
 ---
 
 # Profile
@@ -12,5 +15,3 @@
 ![Chill guy](/img/Chillpic.jpg)
 
 ---
-
-**หน้าถัดไป: [Symmetric Algorithm](symmetric-algorithm.md)**
