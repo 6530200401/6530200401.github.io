@@ -1,4 +1,4 @@
-[HOME](README.md)
+**🔙[HOME](README.md)**
 # Symmetric Algorithm
 
 - **CISSP Glossary - Student Guide** [(Ref: https://www.isc2.org/certifications/cissp/cissp-student-glossary#s)](https://www.isc2.org/certifications/cissp/cissp-student-glossary#s) นิยามไว้ว่า
