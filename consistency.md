@@ -1,18 +1,18 @@
-# Consistency in Data Quality
+# **Consistency in Data Quality**
 
-# Topic : Consistency
-### นืยาม
+## Topic : Consistency
+### นิยาม
 - "Consistency : Analytics are most frequently linked to data consistency. It guarantees that the information collecting source is
   accurately acquiring data in accordance with the department's or company's specific goals."
-### Source
+**Source**
 - [https://www.geeksforgeeks.org/what-is-data-quality-and-why-is-it-important/](https://www.geeksforgeeks.org/what-is-data-quality-and-why-is-it-important/)
 
-# ChatGPT
-### แปลได้ว่า
+## ChatGPT
+##### แปลได้ว่า
 - ความสอดคล้อง: การวิเคราะห์มักเชื่อมโยงกับความสอดคล้องของข้อมูลมากที่สุด โดยความสอดคล้องนี้รับประกันว่าแหล่งที่มาของการเก็บข้อมูลจะได้ข้อมูลที่ถูกต้องตามเป้าหมายเฉพาะของแผนกหรือบริษัท
 
-# Gemini
-### แปลได้ว่า
+## Gemini
+##### แปลได้ว่า
 - ความสอดคล้อง: การวิเคราะห์มักเชื่อมโยงกับความสอดคล้องของข้อมูลมากที่สุด ซึ่งรับประกันว่าแหล่งที่มาของข้อมูลที่เก็บรวบรวมนั้นได้รวบรวมข้อมูลอย่างถูกต้องตามเป้าหมายเฉพาะของแผนกหรือบริษัท
 
 # สรุปเองได้ว่า
