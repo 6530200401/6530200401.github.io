@@ -5,6 +5,7 @@
 - ## สารบัญ
   - **[Glossary: Symmetric Algorithm](symmetric-algorithm.md)**
   - **[E-card Christmas and New Year 2025](e-card.md)**
+  - **[Data Quality : Consistency](consistency.md)**
 
 
 # Profile
