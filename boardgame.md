@@ -29,6 +29,8 @@
 
 
 ## ภาพกิจกรรม
+![GamePlay1](/img/GamePlay1.png)
+![GamePlay2](/img/GamePlay2.png)
 ![Group_photo](/img/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
