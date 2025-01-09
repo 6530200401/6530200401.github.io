@@ -2,10 +2,10 @@
 # Cyber Board Game By SiR Dear ZDark 
 
 ##### สมาชิกคนอื่นในกลุ่ม
-###### - [Sir. Nattawut Supapat](README.md)
-###### - [Sir. Wilit Kronkulsri](README.md)
-###### - [Sir. KRITTIPHON YOONAITHAM](README.md)
-###### - [Sir. PICHAYA SOISING](README.md)
+###### - [Sir. Nattawut Supapat]()
+###### - [Sir. Wilit Kronkulsri]()
+###### - [Sir. KRITTIPHON YOONAITHAM]()
+###### - [Sir. PICHAYA SOISING]()
 
 ## วันที่ทำกิจกรรม
 **วันพฤหัสบดี ที่ 9 มกราคม พ.ศ. 2568 ณ หอพักนิสิต มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
