@@ -28,6 +28,6 @@
 
 
 ## ภาพกิจกรรม
-!(Group_photo)[img/Group_photo]
+!(Group_photo)[/img/BoardGame_Group_photo.jpg]
 
 ## วิดีโอกิจกรรม
