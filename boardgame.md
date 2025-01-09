@@ -1,11 +1,11 @@
 # Cyber Board Game By SiR Dear ZDark 
 
 ##### สมาชิกในกลุ่ม
-- ###### Sir. Nattawut Supapat
-- ###### Sir. Ratthakit Kotcharin
-- ###### Sir. Wilit Kronkulsri
-- ###### Sir. KRITTIPHON YOONAITHAM
-- ###### Sir. PICHAYA SOISING
+###### - Sir. Nattawut Supapat
+###### - Sir. Ratthakit Kotcharin
+###### - Sir. Wilit Kronkulsri
+###### - Sir. KRITTIPHON YOONAITHAM
+###### - Sir. PICHAYA SOISING
 
 
 
@@ -13,7 +13,7 @@
 **วันพฤหัสบดี ที่ 9 มกราคม พ.ศ. 2568 ณ หอพักนิสิต มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา**
 
 ## รายละเอียดกิจกรรม
-- กิจกรรมนี้เป็นกิจกรรมที่จัดโดยกลุ่ม "SiR Dear ZDark" เป็นนิสิต คณะวิทยาศาสตร์ ศรีราชา สาขาวิทยาการคอมพิวเตอร์
+- **กิจกรรมนี้เป็นกิจกรรมที่จัดโดยกลุ่ม "SiR Dear ZDark" เป็นนิสิต คณะวิทยาศาสตร์ ศรีราชา สาขาวิทยาการคอมพิวเตอร์**
 
 - **กิจกรรมนี้เป็นการเล่นบอร์ดเกมของสำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ(สกมช. หรือ NCSA)**
 
@@ -36,3 +36,7 @@
 ![Group_photo](/img/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
+[![Cyber Board Game](/img/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
+
+## ปล.
+###### ทางกลุ่มผู้จัดทำใด้ขออนุญาตน้องๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
