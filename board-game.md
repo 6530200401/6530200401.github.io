@@ -30,9 +30,9 @@
 
 
 ## ภาพกิจกรรม
-![GamePlay1](/MyIMG/GamePlay1.png)
-![GamePlay2](/MyIMG/GamePlay2.png)
-![Group_photo](/MyIMG/BoardGame_Group_photo.jpg)
+![GamePlay1](/img/GamePlay1.png)
+![GamePlay2](/img/GamePlay2.png)
+![Group_photo](/img/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
 [![Cyber Board Game](/MyIMG/Cyber_Board_Game.png)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
