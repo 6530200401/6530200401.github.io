@@ -7,7 +7,7 @@
   - **[E-card Christmas and New Year 2025](e-card.md)**
   - **[Data Quality : Consistency](consistency.md)**
   - **[Cyber Board Game](board-game.md)**
-  - **[PAO Election](pao-election.md)**
+  - **[PAO Election](pao-elections.md)**
 
 
 # Profile
