@@ -21,3 +21,5 @@
 
 ![PAO Election Me And Friend](/img/PAO-election-MeAndFriend.jpg)
 ![PAO Election View](/img/PAO-election-view.jpg)
+
+### ปล. ผมคือคนทางขวาสุด ใส่เสื้อสีเทา
