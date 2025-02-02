@@ -8,6 +8,7 @@
   - **[Data Quality : Consistency](consistency.md)**
   - **[Cyber Board Game](board-game.md)**
   - **[PAO Election](pao-elections.md)**
+  - **[Security Control](security-control.md)**
 
 
 # Profile
