@@ -4,8 +4,8 @@
 
 ## 2FA by using Google Prompt
 ### Two-Factor Authentication
-- something you know : ชื่อ Gmail และ รหัสผ่าน
-- something you have : โทรศัพท์มือถือ
+- **something you know : ชื่อ Gmail และ รหัสผ่าน**
+- **something you have : โทรศัพท์มือถือ**
 
 ### บนคอมพิวเตอร์
 - **ใส่ชื่อ Gmail**
