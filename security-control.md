@@ -8,18 +8,18 @@
 - something you have : โทรศัพท์มือถือ
 
 ### บนคอมพิวเตอร์
-- ใส่ชื่อ Gmail
+- **ใส่ชื่อ Gmail**
 
 ![Mail Name](/img/security-control/mail-name.PNG)
-- ใส่รหัสผ่าน
+- **ใส่รหัสผ่าน**
 
 ![Mail Password](/img/security-control/mail-password.PNG)
-- รอการอนุญาตจากโทรศัพท์มือถือ
+- **รอการอนุญาตจากโทรศัพท์มือถือ**
 
 ![Mail 2FA](/img/security-control/mail-2FA.PNG)
 
 ### บนโทรศัพท์มือถือ
-- อนุญาตการเข้าสู่ระบบ
+- **อนุญาตการเข้าสู่ระบบ**
 
 ![Mail 2FA](/img/security-control/mail-verify.png)
 #### ปล. ขออนุญาต sensor ชื่อ Gmail กับ โทรศัพท์มือถือที่ใช้ ครับ
