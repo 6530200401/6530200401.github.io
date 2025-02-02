@@ -2,7 +2,7 @@
 
 # Security Control
 
-## การยืนยันแบบ 2 ขั้นตอน โดยใช้ Google Prompt (2FA by using Google Prompt)
+## 2FA by using Google Prompt
 ### Two-Factor Authentication
 - something you know : ชื่อ Gmail และ รหัสผ่าน
 - something you have : โทรศัพท์มือถือ
@@ -19,7 +19,7 @@
 - การยืนยันแบบ 2 ขั้นตอน (2FA) โดยใช้ Google Prompt เป็นเทคนิคที่ใช้ในการยืนยันตัวตนของเราในการเข้าสู่ระบบหรือเข้าสู่บัญชี โดยเป็นการใช้เทคโนโลยีมาใช้งานในการยืนยันตัวตน
 
 ## สรุป
-การยืนยันแบบ 2 ขั้นตอนเป็นเรื่องที่ดี ที่เราควรจะตั้งค่า เพราะถ้าหากเรายังใช้การยืนยันตัวตนโดยกรอกแค่ชื่อ Gmail กับ รหัสผ่าน จะทำให้บัญชีของเรามีความปลอดภัยที่น้อยและเสี่ยงต่อการถูก Hack ได้
-การยืนยันแบบ 2 ขั้นตอน โดยใช้ Google Prompt
-- มี Control Functions เป็น Preventative 
-- มี Types of Security Controls เป็น Technical Control
+- การยืนยันแบบ 2 ขั้นตอนเป็นเรื่องที่ดี ที่เราควรจะตั้งค่า เพราะถ้าหากเรายังใช้การยืนยันตัวตนโดยกรอกแค่ชื่อ Gmail กับ รหัสผ่าน จะทำให้บัญชีของเรามีความปลอดภัยที่น้อยและเสี่ยงต่อการถูก Hack ได้ง่าย
+- การยืนยันแบบ 2 ขั้นตอน โดยใช้ Google Prompt
+  - มี Control Functions เป็น Preventative 
+  - มี Types of Security Controls เป็น Technical Control
