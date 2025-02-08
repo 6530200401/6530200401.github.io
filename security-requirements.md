@@ -19,8 +19,8 @@ protected from database injection attacks.
   ที่ป้องกันการโจมตีแบบฉีดโค้ด SQL (SQL injection)"
 
 ## สรุปเองได้ว่า
-** ต้องมีการตรวจสอบในการเรียกใช้ฐานข้อมูลว่า มีการใช้หลักการ parameterized queries, ORMs, entity framework หรือวิธีการอื่นๆที่ใช้ป้องกัน code อันตรายที่เรียกใช้ฐานข้อมูล **
+**ต้องมีการตรวจสอบในการเรียกใช้ฐานข้อมูลว่า มีการใช้หลักการ parameterized queries, ORMs, entity framework หรือวิธีการอื่นๆที่ใช้ป้องกัน code อันตรายที่เรียกใช้ฐานข้อมูล**
 
 ## สมาชิก
-- Sir. Nattawut Supapat
+- [Sir. Nattawut Supapat](https://mizeto.github.io/security-requirements)
 - Sir. Ratthakit Kotcharin (ME)
