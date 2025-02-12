@@ -9,6 +9,7 @@
   - **[Cyber Board Game](board-game.md)**
   - **[PAO Election](pao-elections.md)**
   - **[Security Control](security-control.md)**
+  - **[Security Requirements](security-requirements.md)**
 
 
 # Profile
