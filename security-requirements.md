@@ -23,4 +23,4 @@ protected from database injection attacks.
 
 ## สมาชิก
 - [Sir. Nattawut Supapat](https://mizeto.github.io/security-requirements)
-- Sir. Ratthakit Kotcharin (ME)
+- [Sir. Ratthakit Kotcharin (ME)](security-requirements.md)
